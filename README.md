@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shaon99 Laravel Developer
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Mern Stack 
-- 💞️ I’m Learning to collaborate on Laravel Community
 - 📫 reach me by shaonahmed703@gmail.com
 
 <!---
