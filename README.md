@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shaon99 Laravel Developer
+- 👋 Hi, I’m @Shaon99 FullStack Developer
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Mern Stack 
+- 🌱 I’m Always Curious About New Technology And Try To Learn And Try To Implement 
 - 📫 reach me by shaonahmed703@gmail.com
 
 <!---
