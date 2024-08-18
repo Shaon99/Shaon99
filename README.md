@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaon Ahmed Software Engineer at NextVentures Worked on @FundedNext
+- 👋 Hi, I’m Shaon Ahmed Software Engineer Based On Dhaka
 - 👀 I’m interested in Software Development
 - 🌱 I’m always curious about new technology and try to learn and try to implement 
 - 📫 reach me by shaonahmed703@gmail.com
