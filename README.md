@@ -3,7 +3,7 @@
 - - 👀  interested in Microservice
 - 🌱 I’m always curious about new technology and try to learn and try to implement 
 - 📫 reach me by shaonahmed703@gmail.com
-- Skill: PHP, Javascript, Laravel, livewire, alpine js, Node Js, Vue js, React js, Prisma, Mysql, Postgresql, MongoDB, Docker, Redis, Kafka, WebSocket, Microservices
+- Skill: PHP, Javascript, Laravel, livewire, alpine js, Node Js, Vue js, React js, Prisma, Mysql, Postgresql, MongoDB, Docker, Redis, Kafka, RabbitMQ, WebSocket, Microservices
 - Monitoring Tools: Prometheus, Grafana, Grafana K6, Loki
 <!---
 Shaon99/Shaon99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
