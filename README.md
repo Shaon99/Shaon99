@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaon Ahmed</h1>
-<h3 align="center">Backend Engineer | Microservices | Distributed Systems | AI-driven APIs</h3>
+<h3 align="center">Backend Engineer | Microservices | Distributed Systems | AI-Driven Systems</h3>
 
 <p align="center">
   <a href="mailto:shaonahmed703@gmail.com">Email</a> •
@@ -11,14 +11,15 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with 5+ years of experience building scalable backend systems and distributed architectures.  
-I specialize in **microservices, API design, and high-performance systems** using Laravel, Go, and event-driven technologies.
+I’m a Software Engineer with 5+ years of experience building **scalable backend systems and distributed architectures**.
 
-Currently working on **AI-integrated APIs and manpower industry platforms**, focusing on scalability, automation, and system reliability.
+I specialize in **microservices, high-performance APIs, and AI-integrated systems**, working primarily with Laravel, Go, and event-driven technologies.
 
-I enjoy solving complex engineering problems and building systems that perform efficiently at scale.
+Currently, I’m focused on building **production-grade systems in the manpower and platform domain**, designing services that are reliable, scalable, and optimized for real-world usage.
 
-> “Consistency and resilience beat talent when talent doesn’t persist.”
+Most of my recent work is in **private organizational repositories**, where I contribute to large-scale applications used in production environments.
+
+> “High-performance systems are not built—they are engineered, tested under pressure, and continuously refined.”
 
 ---
 
@@ -31,55 +32,47 @@ I enjoy solving complex engineering problems and building systems that perform e
 - Laravel, Node.js, Express
 - Livewire, Alpine.js
 
-### 🌐 Frontend
-- React.js, Next.js
-
 ### 🏗️ Architecture
-- Microservices
-- Distributed Systems
-- Event-Driven Systems
-- Multi-Tenant Architecture
+- Microservices  
+- Distributed Systems  
+- Event-Driven Systems  
+- Multi-Tenant Architecture  
+
+### 🤖 AI & Intelligent Systems
+- AI-integrated APIs  
+- Workflow automation systems  
+- LLM API integration  
 
 ### 🗄️ Databases
-- MySQL, PostgreSQL, MongoDB, Redis
+- MySQL, PostgreSQL, MongoDB, Redis  
 
 ### 🔁 Messaging & Realtime
-- Kafka, RabbitMQ, WebSockets
+- Kafka, RabbitMQ, WebSockets  
 
 ### ⚡ DevOps & Tools
-- Docker, GitHub Actions (CI/CD), Linux, VPS
-
-### 📊 Monitoring & Observability
-- Prometheus, Grafana
+- Docker, GitHub Actions (CI/CD), Linux, VPS  
 
 ### 🧪 Testing
-- PHPUnit, Pest, TDD
+- PHPUnit, Pest, TDD  
 
 ---
 
 ## 🔥 What I Do
 
-- Build scalable and robust backend systems  
+- Build scalable backend systems for real-world production environments  
 - Design microservices architecture for high-performance applications  
-- Optimize APIs and reduce latency  
-- Develop AI-integrated APIs for automation  
-- Implement monitoring and observability for production systems  
+- Develop AI-driven APIs and automation workflows  
+- Optimize system performance and reduce latency  
+- Implement monitoring and observability for reliability  
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Highlight Work
 
-🔹 Microservices-based Reward System  
-🔹 AI-integrated API for automation workflows  
-🔹 High-performance backend systems for OTT & fintech platforms  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaon99&show_icons=true&theme=tokyonight" />
-</p>
+- Microservices-based reward system (production-grade)  
+- AI-integrated API for workflow automation  
+- Scalable backend systems for OTT & fintech platforms  
+- Distributed systems using Kafka/RabbitMQ for high-throughput processing  
 
 ---
 
@@ -90,4 +83,4 @@ I enjoy solving complex engineering problems and building systems that perform e
 
 ---
 
-⭐️ Open to global remote opportunities
+⭐️ Backend • Microservices • AI Systems
