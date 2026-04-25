@@ -54,7 +54,7 @@ Most of my recent work is in **private organizational repositories**, where I co
 - Docker, GitHub Actions (CI/CD), Linux, VPS  
 
 ### 🧪 Testing
-- PHPUnit, Pest, TDD  
+- PHPUnit, Pest, Jest  
 
 ---
 
