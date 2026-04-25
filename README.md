@@ -33,8 +33,9 @@ Most of my recent work is in **private organizational repositories**, where I co
 - Livewire, Alpine.js
 
 ### 🏗️ Architecture
+- Monolithic
 - Microservices  
-- Distributed Systems  
+- Modular  
 - Event-Driven Systems  
 - Multi-Tenant Architecture  
 
