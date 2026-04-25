@@ -57,6 +57,20 @@ Most of my recent work is in **private organizational repositories**, where I co
 
 ---
 
+## 🚀 Founder Projects
+
+### 🔹 [OptimoSell](https://optimosell.vercel.app/)
+- SaaS platform for **sales optimization and business automation**
+- Designed backend architecture with **microservices and API-first approach**
+- Focused on scalability, performance, and real-world usability
+
+### 🔹 [SalesMama](https://salesmama.vercel.app/)
+- Platform for **sales management and customer workflow automation**
+- Built scalable backend systems and modular architecture
+- Designed APIs for efficient data handling and integrations
+
+---
+
 ## 🔥 What I Do
 
 - Build scalable backend systems for real-world production environments  
@@ -83,4 +97,4 @@ Most of my recent work is in **private organizational repositories**, where I co
 
 ---
 
-⭐️ Backend • Microservices • AI Systems
+⭐️ Backend • Microservices • AI Systems • Founder
