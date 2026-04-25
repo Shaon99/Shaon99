@@ -29,7 +29,7 @@ Most of my recent work is in **private organizational repositories**, where I co
 - PHP, Go, JavaScript
 
 ### ⚙️ Backend & Frameworks
-- Laravel, Node.js, Express
+- Laravel, Node.js, Express, Nest
 - Livewire, Alpine.js
 
 ### 🏗️ Architecture
